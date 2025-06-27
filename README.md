@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### My Topics
+
 - 🌍 I'm based in Sri Lanka
 - 🔭 I’m currently working on [Canteen Management System](https://chandanalepacanteen.vercel.app/)
 - 🧠 I'm learning **Blockchain**
@@ -50,10 +51,12 @@
 </p>
 
 ### GitHub Stats
+
 <a href="http://www.github.com/th1wa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=th1wa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=th1wa&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=th1wa&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xneobyte&theme=github_dark)
 ![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=th1wa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+
 
 
