@@ -1,15 +1,13 @@
 [![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)]()
 
-<h1 align="center">Hi 👋, I'm Thiwanka Pathirana</h1>
-<h3 align="center">A passionate Network Engineer with a keen interest in Frontend, Backend, and DevOps.</h3>
+<h1 align="left">Hi 👋, I'm Thiwanka Pathirana</h1>
+<h3 align="left">A passionate Network Engineer with a keen interest in Frontend, Backend, and DevOps.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=th1wa&label=Profile%20views&color=0e75b6&style=flat" alt="th1wa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=th1wa&label=Profile%20views&color=0e75b6&style=flat" alt="th1wa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### My Topics
-
----
 - 🌍 I'm based in Sri Lanka
 - 🔭 I’m currently working on [Canteen Management System](https://chandanalepacanteen.vercel.app/)
 - 🧠 I'm learning **Blockchain**
@@ -35,7 +33,6 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
 <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
