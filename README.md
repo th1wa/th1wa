@@ -51,8 +51,7 @@
 </p>
 
 ### GitHub Stats
-
-<a href="http://www.github.com/th1wa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=th1wa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=th1wa&theme=transparent&hide_border=true)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=th1wa&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=th1wa&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xneobyte&theme=github_dark)
